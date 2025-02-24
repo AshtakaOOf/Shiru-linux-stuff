@@ -54,13 +54,7 @@
       "schemes": [
         "shiru"
       ]
-    },
-    "publish": [
-      {
-        "provider": "github",
-        "owner": "RockinChaos",
-        "repo": "shiru"
-      }
+    }
     ],
     "appId": "com.github.rockinchaos.shiru",
     "productName": "Shiru",
